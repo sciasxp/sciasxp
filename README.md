@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Luciano
+- 👀 I’m interested in Swift, C, C++, Objective-C, C#, Kotling and Assembly programming.
+- 🌱 I’m currently learning Machine Learning.
+- 📫 You can reach me on sciasxp@gmail.com.
